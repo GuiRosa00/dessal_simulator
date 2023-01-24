@@ -1,0 +1,5 @@
+class Config:
+    SQLALCHEMY_DATABASE_URI = ""
+    SQLALCHEMY_TRACK_MODIFICATIONS =True
+    JSON_SORT_KEYS =False
+    
